@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/material-dashboard-react/static/css/main.8e9f8467.chunk.css",
-    "main.js": "/material-dashboard-react/static/js/main.1a2731fb.chunk.js",
-    "main.js.map": "/material-dashboard-react/static/js/main.1a2731fb.chunk.js.map",
-    "runtime-main.js": "/material-dashboard-react/static/js/runtime-main.ac677098.js",
-    "runtime-main.js.map": "/material-dashboard-react/static/js/runtime-main.ac677098.js.map",
-    "static/css/2.d0176e96.chunk.css": "/material-dashboard-react/static/css/2.d0176e96.chunk.css",
-    "static/js/2.bee81eb4.chunk.js": "/material-dashboard-react/static/js/2.bee81eb4.chunk.js",
-    "static/js/2.bee81eb4.chunk.js.map": "/material-dashboard-react/static/js/2.bee81eb4.chunk.js.map",
-    "index.html": "/material-dashboard-react/index.html",
-    "precache-manifest.7c05ec5787deb8143f5efd5b85d64a17.js": "/material-dashboard-react/precache-manifest.7c05ec5787deb8143f5efd5b85d64a17.js",
-    "service-worker.js": "/material-dashboard-react/service-worker.js",
-    "static/css/2.d0176e96.chunk.css.map": "/material-dashboard-react/static/css/2.d0176e96.chunk.css.map",
-    "static/css/main.8e9f8467.chunk.css.map": "/material-dashboard-react/static/css/main.8e9f8467.chunk.css.map",
-    "static/js/2.bee81eb4.chunk.js.LICENSE.txt": "/material-dashboard-react/static/js/2.bee81eb4.chunk.js.LICENSE.txt",
-    "static/js/main.1a2731fb.chunk.js.LICENSE.txt": "/material-dashboard-react/static/js/main.1a2731fb.chunk.js.LICENSE.txt",
-    "static/media/marc.jpg": "/material-dashboard-react/static/media/marc.8880a65c.jpg",
-    "static/media/sidebar-1.jpg": "/material-dashboard-react/static/media/sidebar-1.8e9f0a3c.jpg",
-    "static/media/sidebar-2.jpg": "/material-dashboard-react/static/media/sidebar-2.310509c9.jpg",
-    "static/media/sidebar-3.jpg": "/material-dashboard-react/static/media/sidebar-3.25031690.jpg",
-    "static/media/sidebar-4.jpg": "/material-dashboard-react/static/media/sidebar-4.fc9cb053.jpg"
+    "main.css": "/react-dashboard-material/static/css/main.8e9f8467.chunk.css",
+    "main.js": "/react-dashboard-material/static/js/main.3f92c6a7.chunk.js",
+    "main.js.map": "/react-dashboard-material/static/js/main.3f92c6a7.chunk.js.map",
+    "runtime-main.js": "/react-dashboard-material/static/js/runtime-main.f6d5c7da.js",
+    "runtime-main.js.map": "/react-dashboard-material/static/js/runtime-main.f6d5c7da.js.map",
+    "static/css/2.d0176e96.chunk.css": "/react-dashboard-material/static/css/2.d0176e96.chunk.css",
+    "static/js/2.bee81eb4.chunk.js": "/react-dashboard-material/static/js/2.bee81eb4.chunk.js",
+    "static/js/2.bee81eb4.chunk.js.map": "/react-dashboard-material/static/js/2.bee81eb4.chunk.js.map",
+    "index.html": "/react-dashboard-material/index.html",
+    "precache-manifest.48b9a6ad29c8ce0251e42ce478b8e251.js": "/react-dashboard-material/precache-manifest.48b9a6ad29c8ce0251e42ce478b8e251.js",
+    "service-worker.js": "/react-dashboard-material/service-worker.js",
+    "static/css/2.d0176e96.chunk.css.map": "/react-dashboard-material/static/css/2.d0176e96.chunk.css.map",
+    "static/css/main.8e9f8467.chunk.css.map": "/react-dashboard-material/static/css/main.8e9f8467.chunk.css.map",
+    "static/js/2.bee81eb4.chunk.js.LICENSE.txt": "/react-dashboard-material/static/js/2.bee81eb4.chunk.js.LICENSE.txt",
+    "static/js/main.3f92c6a7.chunk.js.LICENSE.txt": "/react-dashboard-material/static/js/main.3f92c6a7.chunk.js.LICENSE.txt",
+    "static/media/marc.jpg": "/react-dashboard-material/static/media/marc.8880a65c.jpg",
+    "static/media/sidebar-1.jpg": "/react-dashboard-material/static/media/sidebar-1.8e9f0a3c.jpg",
+    "static/media/sidebar-2.jpg": "/react-dashboard-material/static/media/sidebar-2.310509c9.jpg",
+    "static/media/sidebar-3.jpg": "/react-dashboard-material/static/media/sidebar-3.25031690.jpg",
+    "static/media/sidebar-4.jpg": "/react-dashboard-material/static/media/sidebar-4.fc9cb053.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac677098.js",
+    "static/js/runtime-main.f6d5c7da.js",
     "static/css/2.d0176e96.chunk.css",
     "static/js/2.bee81eb4.chunk.js",
     "static/css/main.8e9f8467.chunk.css",
-    "static/js/main.1a2731fb.chunk.js"
+    "static/js/main.3f92c6a7.chunk.js"
   ]
 }

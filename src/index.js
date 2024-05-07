@@ -29,7 +29,7 @@ import "assets/css/material-dashboard-react.css?v=1.9.0";
 const hist = createBrowserHistory();
 
 ReactDOM.render(
-  <Router history={hist}>
+  <Router history={hist} basename="/react-dashboard-material">
     <Switch>
       <Route path="/admin" component={Admin} />
       <Route path="/rtl" component={RTL} />

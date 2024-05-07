@@ -49,7 +49,18 @@ export default function Footer(props) {
             >
               Creative Tim
             </a>
-            , made with love for a better web
+            ,{" "}
+          </span>
+          <span>
+            Distributed by{" "}
+            <a
+              href="https://www.themewagon.com"
+              target="_blank"
+              className={classes.a}
+            >
+              Themewagon
+            </a>
+            , made with love for a better web{" "}
           </span>
         </p>
       </div>
